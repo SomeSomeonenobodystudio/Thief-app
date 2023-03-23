@@ -52,10 +52,10 @@
 > 目前只有我一个人
 
 
-**Team:** C.TEAM
+**Team:** NOBODY.STUDIO
 
 
-**官网：** https://c.team
+**官网：** https://无.org
 
 
 **我们一心打造创意、创新、好玩的产品**
@@ -67,7 +67,7 @@
 ## 联系我
 
 
-**E-mail:** **lauixData#gmail.com**
+**E-mail:** **somesomeone114514@gmail.com**
 
 
 ## 开源贡献
